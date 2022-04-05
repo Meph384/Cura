@@ -69,7 +69,7 @@ Item
                     verticalCenter: parent.verticalCenter
                 }
 
-                color: hovered ? UM.Theme.getColor("setting_control_button_hover") : UM.Theme.getColor("zmorph_yellow")
+                color: hovered ? UM.Theme.getColor("zmorph_yellow") : UM.Theme.getColor("zmorph_yellow")
                 iconSource: UM.Theme.getIcon("ArrowReset")
 
                 onClicked:
@@ -121,7 +121,7 @@ Item
                     anchors.left: parent.left
                     anchors.leftMargin: UM.Theme.getSize("section_icon").width + UM.Theme.getSize("narrow_margin").width
                     font: UM.Theme.getFont("medium")
-                    color: UM.Theme.getColor("text")
+                    color: UM.Theme.getColor("zmorph_yellow")
                     renderType: Text.NativeRendering
                     elide: Text.ElideRight
                 }
