@@ -365,7 +365,7 @@
         "message_close": [102, 102, 102, 255],
         "message_close_hover": [8, 7, 63, 255],
         "message_progressbar_background": [245, 245, 245, 255],
-        "message_progressbar_control": [242, 255, 0, 255],
+        "message_progressbar_control": [32, 45, 53, 255],
         "message_success_icon": [255, 255, 255, 255],
         "message_warning_icon": [0, 0, 0, 255],
         "message_error_icon": [255, 255, 255, 255],
@@ -423,10 +423,10 @@
         "layerview_nozzle": [224, 192, 16, 64],
         "layerview_starts": [255, 255, 255, 255],
 
-        "tab_status_connected": [242, 255, 0, 255],
+        "tab_status_connected": [32, 45, 53, 255],
         "tab_status_disconnected": [200, 200, 200, 255],
 
-        "printer_config_matched": [242, 255, 0, 255],
+        "printer_config_matched": [32, 45, 53, 255],
         "printer_config_mismatch": [127, 127, 127, 255],
 
         "toolbox_header_button_text_inactive": [0, 0, 0, 255],
