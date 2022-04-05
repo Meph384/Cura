@@ -297,8 +297,8 @@
 
         "scrollbar_background": [255, 255, 255, 255],
         "scrollbar_handle": [10, 8, 80, 255],
-        "scrollbar_handle_hover": [242, 255, 0, 255],
-        "scrollbar_handle_down": [242, 255, 0, 255],
+        "scrollbar_handle_hover": [32, 45, 53, 255],
+        "scrollbar_handle_down": [32, 45, 53, 255],
 
         "setting_category": [240, 240, 240, 255],
         "setting_category_disabled": [255, 255, 255, 255],
@@ -312,9 +312,9 @@
         "setting_category_hover_text": [35, 35, 35, 255],
         "setting_category_border": [240, 240, 240, 255],
         "setting_category_disabled_border": [240, 240, 240, 255],
-        "setting_category_hover_border": [242, 255, 0, 255],
-        "setting_category_active_border": [242, 255, 0, 255],
-        "setting_category_active_hover_border": [242, 255, 0, 255],
+        "setting_category_hover_border": [32, 45, 53, 255],
+        "setting_category_active_border": [32, 45, 53, 255],
+        "setting_category_active_hover_border": [32, 45, 53, 255],
 
         "setting_control": [255, 255, 255, 255],
         "setting_control_selected": [31, 36, 39, 255],
