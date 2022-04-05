@@ -172,6 +172,8 @@
 
     "colors": {
 
+        "zmorph-yellow": [242, 255, 0, 255],
+
         "main_background": [255, 255, 255, 255],
         "wide_lining": [245, 245, 245, 255],
         "thick_lining": [180, 180, 180, 255],
